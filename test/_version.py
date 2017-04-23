@@ -1,2 +1,1 @@
-__version__ = u'17.4.2'
-
+__version__ = u''
